@@ -1,0 +1,2 @@
+[console_scripts]
+run-spark-job = spark_lab9_project.spark_job:main

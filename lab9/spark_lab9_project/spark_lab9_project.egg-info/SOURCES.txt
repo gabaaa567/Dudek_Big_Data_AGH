@@ -1,0 +1,7 @@
+setup.py
+spark_lab9_project.egg-info/PKG-INFO
+spark_lab9_project.egg-info/SOURCES.txt
+spark_lab9_project.egg-info/dependency_links.txt
+spark_lab9_project.egg-info/entry_points.txt
+spark_lab9_project.egg-info/requires.txt
+spark_lab9_project.egg-info/top_level.txt
